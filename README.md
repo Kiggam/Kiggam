@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kiggam
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning Tkinter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning Python
+
 
 <!---
 Kiggam/Kiggam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
